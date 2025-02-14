@@ -1,5 +1,5 @@
     <style>
-      body,html{
+      html{
         width: 100%;
         height: 100%;
         min-height: 100%;
@@ -15,6 +15,15 @@
         margin: 0;
         font-family: 'ITC Avant Garde', 'Salesforce Sans', Arial, sans-serif !important;
         color: #321D71;
+        width: 100%;
+        height: 100%;
+        min-height: 100%;
+        padding: 0;
+        max-width: 100%;
+        overflow-x: hidden;
+        background-image:url('https://kcurt1991.github.io/Images/learning-overview-trailhead-bg.png');
+        background-size: cover;
+        background-repeat: repeat-y;
       }
       :root {
         scroll-behavior: inherit;
